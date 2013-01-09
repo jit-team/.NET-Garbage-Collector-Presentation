@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCPresentation1on4", "GCPresentation1\GCPresentation1on4.csproj", "{CBC079BF-8A9A-4CA6-89C4-407C0C439666}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCPresentation2on4", "GCPresentation2\GCPresentation2on4.csproj", "{7C4A7132-5DAF-4A2C-8ED8-CC72E78688CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCPresentation2on3.5", "GCPresentation2on3.5\GCPresentation2on3.5.csproj", "{2E858D02-3194-4098-B470-FEAE73BD6003}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastDataProcessor", "FastDataProcessor\FastDataProcessor.csproj", "{8CC163DA-BB0F-4C8C-B7E4-082538E0B4AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolGCPresentation1A", "SolGCPresentation1on4\SolGCPresentation1A.csproj", "{01D5076A-7645-444B-BEEB-C433A08A2E38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolGCPresentation1B", "SolGCPresentation1B\SolGCPresentation1B.csproj", "{CB73CCE1-9400-41FA-8C91-3B6C8AEDB20B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolGCPresentation2A", "SolGCPresentation2A\SolGCPresentation2A.csproj", "{C4DAA26D-8FFE-4CA1-A360-3CA979EFA0C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolGCPresentation2B", "SolGCPresentation2B\SolGCPresentation2B.csproj", "{F07C0058-313E-4D80-A689-EDB6BC12688F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBC079BF-8A9A-4CA6-89C4-407C0C439666}.Debug|x86.ActiveCfg = Debug|x86
+		{CBC079BF-8A9A-4CA6-89C4-407C0C439666}.Debug|x86.Build.0 = Debug|x86
+		{CBC079BF-8A9A-4CA6-89C4-407C0C439666}.Release|x86.ActiveCfg = Release|x86
+		{CBC079BF-8A9A-4CA6-89C4-407C0C439666}.Release|x86.Build.0 = Release|x86
+		{7C4A7132-5DAF-4A2C-8ED8-CC72E78688CA}.Debug|x86.ActiveCfg = Debug|x86
+		{7C4A7132-5DAF-4A2C-8ED8-CC72E78688CA}.Debug|x86.Build.0 = Debug|x86
+		{7C4A7132-5DAF-4A2C-8ED8-CC72E78688CA}.Release|x86.ActiveCfg = Release|x86
+		{7C4A7132-5DAF-4A2C-8ED8-CC72E78688CA}.Release|x86.Build.0 = Release|x86
+		{2E858D02-3194-4098-B470-FEAE73BD6003}.Debug|x86.ActiveCfg = Debug|x86
+		{2E858D02-3194-4098-B470-FEAE73BD6003}.Debug|x86.Build.0 = Debug|x86
+		{2E858D02-3194-4098-B470-FEAE73BD6003}.Release|x86.ActiveCfg = Release|x86
+		{2E858D02-3194-4098-B470-FEAE73BD6003}.Release|x86.Build.0 = Release|x86
+		{8CC163DA-BB0F-4C8C-B7E4-082538E0B4AA}.Debug|x86.ActiveCfg = Debug|x86
+		{8CC163DA-BB0F-4C8C-B7E4-082538E0B4AA}.Debug|x86.Build.0 = Debug|x86
+		{8CC163DA-BB0F-4C8C-B7E4-082538E0B4AA}.Release|x86.ActiveCfg = Release|x86
+		{8CC163DA-BB0F-4C8C-B7E4-082538E0B4AA}.Release|x86.Build.0 = Release|x86
+		{01D5076A-7645-444B-BEEB-C433A08A2E38}.Debug|x86.ActiveCfg = Debug|x86
+		{01D5076A-7645-444B-BEEB-C433A08A2E38}.Debug|x86.Build.0 = Debug|x86
+		{01D5076A-7645-444B-BEEB-C433A08A2E38}.Release|x86.ActiveCfg = Release|x86
+		{01D5076A-7645-444B-BEEB-C433A08A2E38}.Release|x86.Build.0 = Release|x86
+		{CB73CCE1-9400-41FA-8C91-3B6C8AEDB20B}.Debug|x86.ActiveCfg = Debug|x86
+		{CB73CCE1-9400-41FA-8C91-3B6C8AEDB20B}.Debug|x86.Build.0 = Debug|x86
+		{CB73CCE1-9400-41FA-8C91-3B6C8AEDB20B}.Release|x86.ActiveCfg = Release|x86
+		{CB73CCE1-9400-41FA-8C91-3B6C8AEDB20B}.Release|x86.Build.0 = Release|x86
+		{C4DAA26D-8FFE-4CA1-A360-3CA979EFA0C7}.Debug|x86.ActiveCfg = Debug|x86
+		{C4DAA26D-8FFE-4CA1-A360-3CA979EFA0C7}.Debug|x86.Build.0 = Debug|x86
+		{C4DAA26D-8FFE-4CA1-A360-3CA979EFA0C7}.Release|x86.ActiveCfg = Release|x86
+		{C4DAA26D-8FFE-4CA1-A360-3CA979EFA0C7}.Release|x86.Build.0 = Release|x86
+		{F07C0058-313E-4D80-A689-EDB6BC12688F}.Debug|x86.ActiveCfg = Debug|x86
+		{F07C0058-313E-4D80-A689-EDB6BC12688F}.Debug|x86.Build.0 = Debug|x86
+		{F07C0058-313E-4D80-A689-EDB6BC12688F}.Release|x86.ActiveCfg = Release|x86
+		{F07C0058-313E-4D80-A689-EDB6BC12688F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
