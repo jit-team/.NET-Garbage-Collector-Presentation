@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCPresentation2on3.5", "GCP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastDataProcessor", "FastDataProcessor\FastDataProcessor.csproj", "{8CC163DA-BB0F-4C8C-B7E4-082538E0B4AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolGCPresentation1A", "SolGCPresentation1on4\SolGCPresentation1A.csproj", "{01D5076A-7645-444B-BEEB-C433A08A2E38}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolGCPresentation1A", "SolGCPresentation1A\SolGCPresentation1A.csproj", "{01D5076A-7645-444B-BEEB-C433A08A2E38}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolGCPresentation1B", "SolGCPresentation1B\SolGCPresentation1B.csproj", "{CB73CCE1-9400-41FA-8C91-3B6C8AEDB20B}"
 EndProject
